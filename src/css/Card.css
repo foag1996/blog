@@ -1,0 +1,15 @@
+.card:hover {
+    box-shadow: 5px 10px 20px 1px rgb(15, 3, 29) !important;
+    transition: all 0.2s linear;
+}
+
+.card {
+    background: #312945;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-outline{
+    background: #C9D115;
+    color: #312945;
+}

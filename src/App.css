@@ -1,0 +1,15 @@
+.App {
+    background: #EEEEEE;
+}
+
+.card {
+    background: #312945;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-outline{
+    background: #C9D115;
+    color: #312945;
+}
+
